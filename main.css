@@ -106,8 +106,8 @@ footer{
 	height:60px;
 	text-align:center;
 }
-footer p{
-	
+footer h5{
+	padding: 30px;
 }
 /********   RESPONSIVE   *********/
 @media()
